@@ -1,4 +1,4 @@
-# Claude Crash Course Templates
+# Claude Crash Course Templates!
 
 Welcome to the **Claude Crash Course** repository! This repo contains three essential templates that will help you rapidly build and deploy AI-driven applications using Claude. These templates are part of a structured workflow designed to enhance your development process and help you code 10x faster.
 
